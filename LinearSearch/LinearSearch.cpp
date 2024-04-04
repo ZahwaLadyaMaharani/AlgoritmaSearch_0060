@@ -18,8 +18,8 @@ void input()
     }
 
     //accept array elements
-    cout << "\n--------------------\n";
-    cout << "\n Enter array element \n";
+    cout << "\n--------------------\n"; 
+    cout << "\n Enter array element \n"; //memasukkan element array
     cout << " --------------------\n";
     for (i = 0; i < n; i++)
     {
