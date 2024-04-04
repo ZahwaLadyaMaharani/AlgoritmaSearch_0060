@@ -32,7 +32,14 @@ void linearSearch()
     char ch;
     int ctr; //number of comparison
     int item; //menyimpan nilai array dalam pencarian linear
-   
+
+    do
+    {
+        //accept the number to be searched
+        cout << "\nEnter the lement you want to search: "; //step 1
+  
+
+    }
 }
 
 int main()
