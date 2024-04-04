@@ -24,6 +24,7 @@ void input()
     for (i = 0; i < n; i++) //mencetak nomor urut elemen array
     {
         cout << "<" << (i + 1) << "> ";
+        cin >> arr[i];
     }
 }
 int main()
