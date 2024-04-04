@@ -21,7 +21,7 @@ void input()
     cout << "\n--------------------\n"; 
     cout << "\n Enter array element \n"; //memasukkan element array
     cout << " --------------------\n";
-    for (i = 0; i < n; i++)
+    for (i = 0; i < n; i++) //mencetak nomor urut elemen array
     {
         cout << "<" << (i + 1) << "> ";
     }
