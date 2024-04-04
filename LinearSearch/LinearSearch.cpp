@@ -50,8 +50,11 @@ void linearSearch()
                     << endl; //step 6
                 break;
             }
+            i++; //step 4
         }
+
     }
+
 
 }
 
